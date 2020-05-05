@@ -103,3 +103,16 @@ p {
 .carousel-item {
   padding: 7% 15%;
 }
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
